@@ -14,7 +14,7 @@ canvas.width = 1280;
 canvas.height = 800;
 draw();
 
-var textStrip = ['K', 'A', 'R', 'I', 'N', '屁', '提', '维', 'k', 'a', 'r', 'i', 'n'];
+var textStrip = ['0', '1', '0', '1', '0', '1', '1', '1', '0', '1', '0', '1', '0'];
 
 var stripCount = 60, stripX = new Array(), stripY = new Array(), dY = new Array(), stripFontSize = new Array();
 
